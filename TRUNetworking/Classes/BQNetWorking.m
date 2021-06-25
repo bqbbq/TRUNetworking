@@ -11,4 +11,8 @@
 + (void)request{
     NSLog(@"request");
 }
+
++ (void)post{
+    NSLog(@"post");
+}
 @end
